@@ -1,0 +1,153 @@
+header{
+    height: 140px;
+    display: flex;
+    background-color: yellow;
+    text-align: center;
+    margin: 20px;
+    border-radius: 50px;
+}
+nav ul li{
+    font-size: larger;
+    display: inline-block;
+    padding: 70px;
+    text-align: center;
+}
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: larger;
+    border: 2px gold;
+}
+.grid
+{
+    display: grid;
+    display: flex;
+    flex-wrap:wrap ;
+}
+.im img
+{
+    border-radius: 20%;
+    padding: 10px;
+}
+.para
+{
+    background-image: url('https://images.unsplash.com/photo-1546387903-6d82d96ccca6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80');
+    background-size:fix;
+    font-style:oblique;
+    font-size: medium;
+    background-color:; 
+    padding: 50px;
+  
+}
+nav{
+    margin-left: 100px;
+}
+#home{
+    margin-left: 150px;
+}
+body{
+    background-color: bisque;
+}
+.grid1
+{
+    display: grid;
+    display: flex;
+    flex-wrap:wrap ;
+}
+.grid2
+{
+    display: grid;
+    display: flex;
+    flex-wrap:wrap ;
+}
+#menu
+{
+    text-align: center  ;
+}
+#products
+{
+    text-align: center  ;
+}
+#move
+{
+    width: 100%;
+    height: 100%;
+    overflow: auto auto;
+    white-space: nowrap;
+}
+#move .slide{
+    display: inline-block;
+}
+form{
+    background-image: url('https://t4.ftcdn.net/jpg/04/54/57/63/360_F_454576300_AN2dAthqhFl11iIoqHBgl3mpyXyzREnx.jpg');
+    margin-left: 50px;
+    padding: 80px;
+    width: 850px;
+    height: 180px;
+    border-radius: 30px;
+}
+
+#contact{
+    text-align: center;
+    margin-left: 300px;
+    margin:20px 0px 0px 350px;
+    border-radius: 70px;
+    display: inline-block;
+
+}
+.inputbox{
+    color: blue;
+    margin-left: 300px;
+    
+}
+.ROW
+{
+    display: flex;
+}
+.row{
+    margin-left: 200px;
+}
+#review{
+    background-color:black;
+    color:white;
+    height:300px;
+    width: 300px;
+    padding: 10px;
+
+}
+
+.photo,.photo1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin:300px 0px 0px opx;
+    
+}
+.foodtaste{
+    display: flex;
+}
+.foodtaste1{
+    display: flex;
+    margin-left:150px;
+}
+.foodtaste2{
+    display: flex;
+    margin-left:150px;
+}
+.food{
+    display: flex;
+    margin-left:150px;
+}
+.footer1{
+    display: flex;
+    margin-left: 600px;
+}
+#footer{
+    
+    background-color:black;
+    height: 100px;
+    width:1890px;
+    style="color:red;"
+}
+    
